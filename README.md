@@ -49,7 +49,17 @@ A modern productivity and task management application built with **React**.
 
 ## 📸 Preview
 
-Add your project screenshot here.
+### 🌙 Dashboard
+
+![FocusFlow Dashboard](screenshots/focusflow-preview1.png)
+
+### 📋 Task Management
+
+![FocusFlow Task Management](screenshots/focusflow-preview2.png)
+
+### ☀️ Light Mode
+
+![FocusFlow Light Mode](screenshots/focusflow-light.png)
 
 ---
 
