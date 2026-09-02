@@ -1,16 +1,91 @@
-# React + Vite
+# 🚀 FocusFlow – Smart Productivity Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 🎯 Plan smarter. Focus deeper.
 
-Currently, two official plugins are available:
+A modern productivity and task management application built with **React**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ➕ Add and manage tasks
+- 📂 Organize tasks by category
+- 🔥 Set task priorities
+- 📅 Add deadlines
+- ✅ Track completed tasks
+- 🔍 Search tasks
+- 🎯 Filter tasks
+- 📊 Track productivity statistics
+- ⏱️ Pomodoro focus timer
+- 🌙 Dark / Light mode
+- 💾 LocalStorage persistence
+- 📱 Responsive design
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| ⚛️ React | User interface |
+| 🟨 JavaScript | Application logic |
+| 🎨 CSS3 | Styling & responsive design |
+| ⚡ Vite | Development & build tool |
+| 💾 LocalStorage | Data persistence |
+
+---
+
+## 🧠 React Concepts
+
+- `useState` — state management
+- `useEffect` — side effects and timer
+- `useMemo` — filtered task calculation
+- Event handling
+- Conditional rendering
+- `map()` and `filter()`
+- Component-based development
+
+---
+
+## 📸 Preview
+
+Add your project screenshot here.
+
+---
+
+## 🚀 Getting Started
+
+1️⃣ Clone the repository
+
+git clone https://github.com/subalakshmi4/focusflow.git
+
+2️⃣ Install dependencies
+
+npm install
+
+3️⃣ Start the development server
+
+npm run dev
+
+📦 Production Build
+
+npm run build
+
+---
+
+## 🔮 Future Improvements
+
+- ✏️ Edit tasks
+- 🔔 Notifications and reminders
+- 🔁 Recurring tasks
+- 📈 Productivity charts
+- 👤 User authentication
+- ☁️ Cloud database integration
+- 🖱️ Drag-and-drop task organization
+
+---
+
+👩‍💻 Author
+Suba Lakshmi K
+
+🔗 GitHub: https://github.com/subalakshmi4
